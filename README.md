@@ -1,6 +1,6 @@
 # Android Navigation Menu Bar App
 <p align="center">
-   <img src="https://i.imgur.com/9YSx4c3.png" width="270" height="480">
+   <img src="https://i.imgur.com/Rt157Ux.png" width="270" height="480">
 </p>
 <br>
 <i>
